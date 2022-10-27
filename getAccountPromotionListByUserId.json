@@ -1,0 +1,88 @@
+{
+    "statusCode": 200,
+    "errorMsg": "Request Completed Successfully",
+    "message": "Request Completed Successfully",
+    "localizedKey": "ALM-10060",
+    "data": {
+        "promotions": [
+            {
+                "promotionId": "2",
+                "assetId": 10,
+                "promotionType": "Perm",
+                "title": "Periodic",
+                "phoneNumber": "9265847888",
+                "email": "abc@gmail.com",
+                "companyId": 50,
+                "financialGroupName": "Netsol",
+                "duration": 30,
+                "modelId": 30,
+                "makeId": 40,
+                "financialGroupId": 90,
+                "financialProductId": 50,
+                "mediaUrl": "Promotion.com",
+                "mediaType": "Electronic",
+                "manufacturer": "NFS",
+                "manufacturerName": "NFS Contract",
+                "model": "AZ-658",
+                "modelName": "Mercedes ",
+                "criteriaGroupId": "F9696",
+                "activeInd": false,
+                "thumbnailUrl": "Promotion.com",
+                "thumbnail": null,
+                "media": null,
+                "promotionDescriptions": [
+                    {
+                        "promotionDescriptionIdPk": 5,
+                        "promotionIdFk": "Al001",
+                        "languageCodeFk": "220",
+                        "description": "Test",
+                        "updationDate": 0,
+                        "createdBy": "Netsol",
+                        "updatedBy": "Admin",
+                        "creationDate": 0,
+                        "companyId": 1
+                    }
+                ]
+            },
+            {
+                "promotionId": "2",
+                "assetId": 10,
+                "promotionType": "Perm",
+                "title": "Periodic",
+                "phoneNumber": "9265847888",
+                "email": "abc@gmail.com",
+                "companyId": 50,
+                "financialGroupName": "Netsol",
+                "duration": 30,
+                "modelId": 30,
+                "makeId": 40,
+                "financialGroupId": 90,
+                "financialProductId": 50,
+                "mediaUrl": "Promotion.com",
+                "mediaType": "Electronic",
+                "manufacturer": "NFS",
+                "manufacturerName": "NFS Contract",
+                "model": "AZ-658",
+                "modelName": "Mercedes ",
+                "criteriaGroupId": "F9696",
+                "activeInd": false,
+                "thumbnailUrl": "Promotion.com",
+                "thumbnail": null,
+                "media": null,
+                "promotionDescriptions": [
+                    {
+                        "promotionDescriptionIdPk": 5,
+                        "promotionIdFk": "Al001",
+                        "languageCodeFk": "220",
+                        "description": "Test",
+                        "updationDate": 0,
+                        "createdBy": "Netsol",
+                        "updatedBy": "Admin",
+                        "creationDate": 0,
+                        "companyId": 1
+                    }
+                ]
+            }
+        ]
+    }
+}
