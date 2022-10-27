@@ -1,0 +1,79 @@
+{
+    "statusCode": 200,
+    "errorMsg": "Request Completed Successfully",
+    "message": "Request Completed Successfully",
+    "localizedKey": "ALM-10060",
+    "data": {
+        "contactDetail": [
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Hassan Riaz"
+            },
+            {
+                "contactNumber": 123,
+                "contactName": "Tahir Bhai"
+            }
+        ]
+    }
+}
+
